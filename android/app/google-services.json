@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733946901253",
+    "project_id": "gennie-app",
+    "storage_bucket": "gennie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733946901253:android:1295b22dfa4de22ddd3d6c",
+        "android_client_info": {
+          "package_name": "com.example.gennie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRSdsTbX2HEVKuTDRwBkU0K3mzJjia7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

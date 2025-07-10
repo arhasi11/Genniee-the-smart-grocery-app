@@ -1,0 +1,39 @@
+name: gennie_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.0.0
+  pdf: ^3.10.1
+  printing: ^5.11.0
+  flutter_local_notifications: ^17.0.0
+  provider: ^6.1.1
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/Ge.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/animations/gennie_delivery.json
+    - assets/images/Ge.png
+   
