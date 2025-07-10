@@ -82,14 +82,14 @@ flutter run
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 Home Screen	AI Basket	Cart System	Profile
 
 (Optional: Add actual screenshots from your emulator)
 
 ---
 
-##💡 Future Plans
+## 💡 Future Plans
 Admin dashboard (mobile + web)
 - Firebase integration for:
 - Orders
@@ -102,11 +102,11 @@ Admin dashboard (mobile + web)
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Arhasi Soni
 arhasisoni@gmail.com
 
 ---
 
-##📄 License
+## 📄 License
 MIT License - see the LICENSE file for details.
